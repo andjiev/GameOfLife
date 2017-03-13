@@ -1,0 +1,9 @@
+C:\Users\kruz\AppData\Local\Temporary Projects\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\AppData\Local\Temporary Projects\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+C:\Users\kruz\AppData\Local\Temporary Projects\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\AppData\Local\Temporary Projects\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.pdb
+C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.pdb
+C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.csprojResolveAssemblyReference.cache
