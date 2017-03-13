@@ -7,3 +7,7 @@ C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLif
 C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
 C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
 C:\Users\kruz\Documents\Visual Studio 2010\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\x86\Debug\Lab2GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\kruz\Desktop\Git\GameOfLife\obj\x86\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\Desktop\Git\GameOfLife\bin\Debug\Lab2GameOfLife.exe
+C:\Users\kruz\Desktop\Git\GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+C:\Users\kruz\Desktop\Git\GameOfLife\obj\x86\Debug\Lab2GameOfLife.pdb

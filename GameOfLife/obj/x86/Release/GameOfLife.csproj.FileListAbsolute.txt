@@ -1,0 +1,4 @@
+C:\Users\kruz\Desktop\Git\GameOfLife\bin\Release\Lab2GameOfLife.exe
+C:\Users\kruz\Desktop\Git\GameOfLife\bin\Release\Lab2GameOfLife.pdb
+C:\Users\kruz\Desktop\Git\GameOfLife\obj\x86\Release\Lab2GameOfLife.exe
+C:\Users\kruz\Desktop\Git\GameOfLife\obj\x86\Release\Lab2GameOfLife.pdb
