@@ -12,7 +12,7 @@ namespace Lab2GameOfLife
         public int MaxGenerations { get; set; }
 
         public Game(int maxGenerations)
-        {
+vgtvgvgvtgvgv        {
             MaxGenerations = maxGenerations;
             CurrentGeneration = 0;
         }
